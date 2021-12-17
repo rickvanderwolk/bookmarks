@@ -2,6 +2,7 @@
 
 - [Books](#books)
 - [Tools](#tools)
+- [Standards](#standards)
 - [Sustainble web](#sustainble-web)
 - [QA](#qa)
 - [YouTube](#youtube)
@@ -25,6 +26,14 @@
 - [low tech magazine](https://solar.lowtechmagazine.com/power.html)
 - [sustainable web design](https://sustainablewebdesign.org/`)
 - [website carbon calculator](https://www.websitecarbon.com/)
+
+<a name="standards"></a>
+## Standards
+
+- [javascript standard style](https://standardjs.com/)
+- [php-fig (psr)](https://www.php-fig.org/psr/)
+- [semantic versioning](https://semver.org/)
+- [vue style guide](https://vuejs.org/v2/style-guide/)
 
 <a name="qa"></a>
 ## QA
