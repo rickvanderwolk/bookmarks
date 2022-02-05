@@ -50,6 +50,7 @@
 - [phpstan](https://github.com/phpstan/phpstan)
 - [phpunit](https://github.com/sebastianbergmann/phpunit)
 - [psalm](https://github.com/vimeo/psalm)
+- [enlightn/security-checker](https://github.com/enlightn/security-checker)
 - [sonarqube](https://github.com/SonarSource/sonarqube)
 - [stylelint](https://github.com/stylelint/stylelint)
 
